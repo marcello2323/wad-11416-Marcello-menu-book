@@ -36,13 +36,17 @@ text-align: center;
 }
 
 .menu {
-	
-	display: flex;
-	
-	width: fill;
-	
-	height: hug;
-	
-	gap: 32px;
-	
-}	
+		display: flex;
+
+}
+
+.food {
+		width: 30%;
+		text-align: center;
+
+}
+
+.price {
+		margin: 50px;
+		font-size: 15px;
+}
